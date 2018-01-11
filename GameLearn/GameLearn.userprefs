@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Bullet.cs">
+    <Files>
+      <File FileName="Assets\CameraStuff.cs" Line="13" Column="61" />
+      <File FileName="Assets\DoggiePath.cs" Line="11" Column="28" />
+      <File FileName="Assets\PlayerData.cs" Line="95" Column="9" />
+      <File FileName="Assets\SheepiePath.cs" Line="1" Column="1" />
+      <File FileName="Assets\ObjectLifetime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Bullet.cs" Line="20" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
